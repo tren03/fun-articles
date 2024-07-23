@@ -9,3 +9,16 @@
 8. https://overthewire.org/wargames/  🤯
 9. https://adventofcode.com - for a new language
 10. https://learnxinyminutes.com - for a new language too
+11. https://github.com/rasbt/LLMs-from-scratch
+12. https://github.com/practical-tutorials/project-based-learning 
+13. https://github.com/PacktPublishing/Mastering-Embedded-Linux-Programming-Third-Edition
+14. https://github.com/RayTracing/raytracing.github.io 
+15. https://github.com/aalhour/awesome-compilers - Resources for compilers
+16. https://www.nand2tetris.org/ - Implementation from basic logic gates to a full fledged computer on your own
+17. https://protohackers.com/problems - server side scripting challenges 
+18. https://github.com/fanweng/MIT-6.828-OS-Engineering/blob/master/resources/xv6-book-rev11.pdf - Talks about the implementation of xv6 operating system(MIT's os for their os course)
+19. https://docs.manim.community/en/stable/index.html - Animation library started by Grant Sanderson(3 blue 1 brown) and now maintained by the open source community
+20. https://lwn.net/Kernel/LDD3/ - Linux Device Drivers Book
+21. https://learngitbranching.js.org/ - Know how Git works
+22. https://cryptopals.com/ - Some cryptography challenges
+23. https://www.deep-ml.com/ - ML Algorithms implentation
