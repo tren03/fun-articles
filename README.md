@@ -23,3 +23,4 @@
 22. https://cryptopals.com/ - Some cryptography challenges
 23. https://www.deep-ml.com/ - ML Algorithms implentation
 24. https://sysprog21.github.io/lkmpg/ - Linux Kernel Development
+25. https://muhammadraza.me/2023/shell-functions/ - shell utils
