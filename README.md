@@ -24,4 +24,4 @@
 23. https://www.deep-ml.com/ - ML Algorithms implentation
 24. https://sysprog21.github.io/lkmpg/ - Linux Kernel Development
 25. https://muhammadraza.me/2023/shell-functions/ - shell utils
-check.com
+26. https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/
