@@ -1,6 +1,6 @@
 # Cool articles and websites
 
-## This has benn converted to a website -> https://artechcles.up.railway.app
+## This has been converted to a website -> https://artechcles.up.railway.app
 1. https://cpu.land - figuring out how the cpu works
 2. http://antirez.com/news/108 - building a text editor from C
 3. https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html
